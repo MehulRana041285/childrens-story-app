@@ -1,2 +1,2 @@
 # childrens-story-app
-React Native app for a children's story
+> React Native children's story app
